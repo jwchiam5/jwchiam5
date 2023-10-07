@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 Contactable through email. 📧joonwee65@gmail.com
 
+![](https://komarev.com/ghpvc/?username=jwchiam5&color=brightgreen&label=PROFILE+VIEWS&base=10)
+
 <!---
 jwchiam5/jwchiam5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
