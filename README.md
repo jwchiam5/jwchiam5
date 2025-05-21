@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jwchiam5
-- 👀 I’m interested in AI and Machine learning and anything related to computing👨‍💻
-- 💞️ I’m looking to collaborate on anything fun
-- 📫 Contactable through email. 📧joonwee65@gmail.com
+- 👀 I’m interested in anything related to computing👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=jwchiam5&style=flat-square&color=brightgreen&label=PROFILE+VIEWS&base=100)
 
